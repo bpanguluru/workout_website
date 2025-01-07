@@ -176,7 +176,7 @@ if($add_perm)
     const url = 'https://api.api-ninjas.com/v1/exercises'; 
     const options = {
       method: 'GET',
-      headers: {'X-Api-Key': 'coGlkWFI1CB+Jch5oUMKCQ==rALrEy3P5sGRpqqc'}
+      headers: {'X-Api-Key': 'somethin'}
     };
 
     fetch(url, options)
