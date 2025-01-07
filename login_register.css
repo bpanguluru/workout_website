@@ -1,0 +1,10 @@
+body{
+    background-color: #efd0ca;
+}
+.card{
+    background-color: #fffaff;
+}
+.btn-full-width {
+    width: 100%;
+    margin-bottom: 5px; 
+}
